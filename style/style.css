@@ -1,0 +1,31 @@
+/* *{
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+} */
+/* header and navigation */
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+nav li{
+    list-style: none;
+   margin-left: 50px;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    
+}
+.nav-title{
+    font-weight: 700;
+    font-size: 45px;
+}
+/* header and banner */
+.text-area{
+    font-weight: 700;
+font-size: 64px;
+line-height: 75px;
+text-align: center;
+
+}
