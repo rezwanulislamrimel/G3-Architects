@@ -1,7 +1,7 @@
-/* *{
+*{
     margin: 0;
     font-family: 'Work Sans', sans-serif;
-} */
+}
 /* header and navigation */
 nav{
     display: flex;
@@ -22,10 +22,48 @@ nav ul{
     font-size: 45px;
 }
 /* header and banner */
-.text-area{
+.about{
+
+   text-align: center;
+    width: 862px;
+    height: 225px;
+    margin-top: 102px;
+    margin-left: 235px;
+    
+}
+
+
+
+.section-title{
     font-weight: 700;
 font-size: 64px;
 line-height: 75px;
-text-align: center;
 
+}
+.section-title-2{
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 75px;
+}
+.secton-description{
+margin-top: 33px;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+}
+.btn-primary{
+    margin: 32px;
+    border: 0;
+    padding: 25px 20px;
+    width: 180px;
+    height: 64px;
+    background: #FF900E;
+    border-radius: 8px;
+    color: #FFFFFF;
+}
+.banner-title{
+    width: 100%;
+    height: 100%;
+  margin-top: auto;
+  
 }
